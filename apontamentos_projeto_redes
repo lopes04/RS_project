@@ -1,0 +1,8 @@
+Projeto Redes:
+
+1º Ponto:
+
+    1. Definir as Sub-redes IPv4 Públicas
+
+    Temos o bloco 195.5.5.0/25, que fornece 128 endereços (de 195.5.5.0 a 195.5.5.127).
+    Este bloco será usado para servidores na DMZ, no Datacenter e para o Router1.

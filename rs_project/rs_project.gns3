@@ -31,24 +31,24 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"1201\" height=\"768\"><rect width=\"1201\" height=\"768\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -526,
-                "y": -294,
+                "x": -527,
+                "y": -302,
                 "z": 0
             },
             {
                 "drawing_id": "dfa49cd5-06f7-46b9-ac1c-e091e83c8328",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"290\" height=\"233\"><rect width=\"290\" height=\"233\" fill=\"#f6f5f4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": 333,
-                "y": -134,
+                "svg": "<svg width=\"338\" height=\"233\"><rect width=\"338\" height=\"233\" fill=\"#8ff0a4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 328,
+                "y": -132,
                 "z": 0
             },
             {
                 "drawing_id": "555b62b9-aa4b-437a-a3df-727ff9ca9d9e",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"289\" height=\"187\"><rect width=\"289\" height=\"187\" fill=\"#f6f5f4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "svg": "<svg width=\"289\" height=\"187\"><rect width=\"289\" height=\"187\" fill=\"#f9f06b\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -511,
                 "y": -285,
                 "z": 0
@@ -57,7 +57,7 @@
                 "drawing_id": "2981ffec-9a4b-4ea6-8f88-44cb86843858",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"247\" height=\"212\"><rect width=\"247\" height=\"212\" fill=\"#f6f5f4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "svg": "<svg width=\"247\" height=\"212\"><rect width=\"247\" height=\"212\" fill=\"#dc8add\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -140,
                 "y": -121,
                 "z": 0
@@ -66,7 +66,7 @@
                 "drawing_id": "c2b8c7e8-f98f-4460-a597-5947db227ba4",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#f6f5f4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#99c1f1\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -391,
                 "y": 335,
                 "z": 0
@@ -75,7 +75,7 @@
                 "drawing_id": "15e04f56-0782-4b19-8345-3530a87c299c",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#f6f5f4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#ffbe6f\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -99,
                 "y": 343,
                 "z": 0
@@ -84,7 +84,7 @@
                 "drawing_id": "d162db13-ba4a-4b27-9ad1-f3d99411efc9",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#f6f5f4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#f66151\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": 173,
                 "y": 339,
                 "z": 0
@@ -138,28 +138,379 @@
                 "drawing_id": "afa96aad-0737-4299-a88c-9e96a1abee78",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"141\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">MANAGEMENT VLAN</text></svg>",
-                "x": -351,
-                "y": 440,
+                "svg": "<svg width=\"160\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">MANAGEMENT VLAN-10</text></svg>",
+                "x": -370,
+                "y": 431,
                 "z": 2
             },
             {
                 "drawing_id": "2f2c60a8-8360-4694-a12b-c8b082bad7c6",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"137\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">ENGINEERING VLAN</text></svg>",
-                "x": -59,
-                "y": 441,
+                "svg": "<svg width=\"156\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">ENGINEERING VLAN-15</text></svg>",
+                "x": -71,
+                "y": 436,
                 "z": 2
             },
             {
                 "drawing_id": "8ddc421b-7284-4bf4-85f9-f48e89fbfe15",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"76\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VoIP VLAN</text></svg>",
-                "x": 240,
-                "y": 439,
+                "svg": "<svg width=\"95\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VoIP VLAN-20</text></svg>",
+                "x": 225,
+                "y": 433,
                 "z": 2
+            },
+            {
+                "drawing_id": "f87c3a7d-27a3-4dc0-b8f7-b962a536ca57",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"62\" height=\"28\"><line x1=\"0\" x2=\"62\" y1=\"0\" y2=\"-28\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -439,
+                "y": 436,
+                "z": 1
+            },
+            {
+                "drawing_id": "cf809014-25f6-49c2-b9ca-e74fa94f956b",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"84\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Private\n10.10.0.1/24\n2200::1/64</text></svg>",
+                "x": -509,
+                "y": 413,
+                "z": 2
+            },
+            {
+                "drawing_id": "2c8f0ca9-d53a-428e-94e6-182ac5d8528d",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"36\" height=\"54\"><line x1=\"0\" x2=\"36\" y1=\"0\" y2=\"54\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -220,
+                "y": 407,
+                "z": 1
+            },
+            {
+                "drawing_id": "1b793603-c159-4807-9ca0-da44e784da3c",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"73\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Public\n2200::2/64</text></svg>",
+                "x": -211,
+                "y": 452,
+                "z": 2
+            },
+            {
+                "drawing_id": "154aeaf7-f754-4d10-9d8a-804b7f68c468",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"1\" height=\"59\"><line x1=\"0\" x2=\"1\" y1=\"0\" y2=\"59\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -75,
+                "y": 421,
+                "z": 1
+            },
+            {
+                "drawing_id": "2594f37a-be54-439f-b539-b9b12eee9307",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Private\n10.10.1.1/24\n2200:0:0:1::1/64</text></svg>",
+                "x": -117,
+                "y": 470,
+                "z": 2
+            },
+            {
+                "drawing_id": "13411181-fe37-4460-aae1-679189973453",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"11\" height=\"57\"><line x1=\"0\" x2=\"11\" y1=\"0\" y2=\"57\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 81,
+                "y": 424,
+                "z": 1
+            },
+            {
+                "drawing_id": "c8b6a27f-0088-4930-bd17-edc9fdc4fc5e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Public\n195.5.5.15/27\n2200:0:0:1::2/64</text></svg>",
+                "x": 62,
+                "y": 467,
+                "z": 2
+            },
+            {
+                "drawing_id": "70bcc0a1-a1eb-4974-a242-94e2414d880e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Private\n10.10.2.1/24\n2200:0:0:2::1/64</text></svg>",
+                "x": 210,
+                "y": 465,
+                "z": 2
+            },
+            {
+                "drawing_id": "341dd4c1-2c65-4e9a-a10d-ce14ef488386",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"30\" height=\"46\"><line x1=\"0\" x2=\"30\" y1=\"0\" y2=\"46\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 204,
+                "y": 426,
+                "z": 1
+            },
+            {
+                "drawing_id": "d3638f19-e258-4969-a59c-19b0e3e23986",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Public\n2200:0:0:2::2/64</text></svg>",
+                "x": 353,
+                "y": 469,
+                "z": 2
+            },
+            {
+                "drawing_id": "1d1640c7-273d-4d5b-94af-86c44d73a21d",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"28\" height=\"44\"><line x1=\"0\" x2=\"28\" y1=\"0\" y2=\"44\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 344,
+                "y": 430,
+                "z": 1
+            },
+            {
+                "drawing_id": "97d338ad-a34f-4af7-8a09-8e269f9a1172",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Private\n10.10.4.1/24\n2200:0:0:4::1/64</text></svg>",
+                "x": -243,
+                "y": 17,
+                "z": 2
+            },
+            {
+                "drawing_id": "e78985a5-43b4-4f09-bd4b-4fd6af9dbad4",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"55\" height=\"0\"><line x1=\"0\" x2=\"55\" y1=\"0\" y2=\"0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -173,
+                "y": 36,
+                "z": 1
+            },
+            {
+                "drawing_id": "0c5bd299-bee2-49c3-b912-acee6f3a1a8f",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Public\n195.5.5.49/28\n2200:0:0:4::2/64</text></svg>",
+                "x": 113,
+                "y": 11,
+                "z": 2
+            },
+            {
+                "drawing_id": "daba8634-2545-4402-a1ee-a9ba8c9368ec",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"22\" height=\"0\"><line x1=\"0\" x2=\"22\" y1=\"0\" y2=\"0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 91,
+                "y": 26,
+                "z": 1
+            },
+            {
+                "drawing_id": "d6032eef-a2e2-4b02-bd5f-ea6a197110ee",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"83\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">194.4.4.2/23</text></svg>",
+                "x": 246,
+                "y": -424,
+                "z": 2
+            },
+            {
+                "drawing_id": "9e5e7ccd-e89f-4e4f-97a0-7f8603580227",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Private\n10.10.5.1/24\n2200:0:0:5::1/64</text></svg>",
+                "x": -632,
+                "y": -265,
+                "z": 2
+            },
+            {
+                "drawing_id": "c344f315-5f0e-4518-9545-bfaac5e4025a",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"49\" height=\"1\"><line x1=\"0\" x2=\"49\" y1=\"0\" y2=\"-1\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -542,
+                "y": -239,
+                "z": 1
+            },
+            {
+                "drawing_id": "370f7f96-885d-499f-bbc2-d993e80b8f16",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Public\n195.5.5.65/28\n2200:0:0:5::2/64</text></svg>",
+                "x": -631,
+                "y": -164,
+                "z": 2
+            },
+            {
+                "drawing_id": "b6f43bdb-6dad-4c50-a102-b8628a64eda8",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"2\"><line x1=\"0\" x2=\"50\" y1=\"0\" y2=\"-2\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -540,
+                "y": -142,
+                "z": 1
+            },
+            {
+                "drawing_id": "b1f8f21e-900a-46df-8b9e-82439b6e8848",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Private\n10.10.3.48/24\n2200:0:0:3::1/64</text></svg>",
+                "x": 672,
+                "y": -112,
+                "z": 2
+            },
+            {
+                "drawing_id": "41aaa92b-c5ac-4848-9f59-b9934563c637",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"20\" height=\"2\"><line x1=\"0\" x2=\"-20\" y1=\"0\" y2=\"2\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 673,
+                "y": -89,
+                "z": 1
+            },
+            {
+                "drawing_id": "9cbf0513-34ef-4b80-bee8-62398a7963ea",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Public\n195.5.5.33/28\n2200:0:0:3::2/64</text></svg>",
+                "x": 682,
+                "y": 19,
+                "z": 2
+            },
+            {
+                "drawing_id": "fcc44335-d3c1-405b-9f26-aee1c831e704",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"26\" height=\"0\"><line x1=\"0\" x2=\"26\" y1=\"0\" y2=\"0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 656,
+                "y": 41,
+                "z": 1
+            },
+            {
+                "drawing_id": "546b688f-aab3-4f6e-97bb-521fa595d7a8",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"108\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.5.61/24\n195.5.5.70/28(p)\n2200:0:0:5::/64</text></svg>",
+                "x": -154,
+                "y": -253,
+                "z": 2
+            },
+            {
+                "drawing_id": "fe77e186-cb84-422c-8f5c-0d359c26faf2",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"91\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.4.2/24\n195.5.5.50/28</text></svg>",
+                "x": -297,
+                "y": -15,
+                "z": 2
+            },
+            {
+                "drawing_id": "56007b61-2017-4be0-8f9e-80924c0c39b6",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"83\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">194.4.4.1/23</text></svg>",
+                "x": 11,
+                "y": -423,
+                "z": 2
+            },
+            {
+                "drawing_id": "12853571-ce5d-404e-ad07-a5e159358e31",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"113\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">210.10.10.253/30\n2100:A:A::253/64</text></svg>",
+                "x": -137,
+                "y": -379,
+                "z": 2
+            },
+            {
+                "drawing_id": "d8ddcab4-b35b-45d5-8edb-a5577fa1cafb",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"113\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">210.10.10.254/30\n2100:A:A::254/64</text></svg>",
+                "x": 3,
+                "y": -270,
+                "z": 2
+            },
+            {
+                "drawing_id": "1d92e3d6-98c1-409d-aa21-958c80d66214",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.6.60/24\n2200:0:0:6::60/64</text></svg>",
+                "x": -106,
+                "y": -158,
+                "z": 2
+            },
+            {
+                "drawing_id": "229d9feb-92ad-472e-ad10-52f0fd8f9b6f",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.7.70/24\n2200:0:0:7::70/64</text></svg>",
+                "x": 41,
+                "y": -186,
+                "z": 2
+            },
+            {
+                "drawing_id": "de2621fa-e2e4-41ed-a199-8000629b9f90",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.6.61/24\n2200:0:0:6::61/64</text></svg>",
+                "x": -375,
+                "y": -66,
+                "z": 2
+            },
+            {
+                "drawing_id": "28c7677c-940c-4fa5-91d8-6d2936641403",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.7.71/24\n2200:0:0:7::71/64</text></svg>",
+                "x": 198,
+                "y": -48,
+                "z": 2
+            },
+            {
+                "drawing_id": "314b8e05-da9e-4ee0-9119-bcb1fda54669",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.8.80/24\n2200:0:0:8::80/64</text></svg>",
+                "x": 314,
+                "y": 44,
+                "z": 2
+            },
+            {
+                "drawing_id": "3c1928f3-6b0d-4de4-a6b8-82a7ddbd16b1",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">195.5.5.34/28\n10.10.3.30/24\n2200:0:0:3::4/64</text></svg>",
+                "x": 418,
+                "y": -109,
+                "z": 2
+            },
+            {
+                "drawing_id": "f09c817a-aef2-4325-8180-b20b5cc5226b",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"8\" height=\"44\"><line x1=\"0\" x2=\"-8\" y1=\"0\" y2=\"44\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 448,
+                "y": -51,
+                "z": 1
+            },
+            {
+                "drawing_id": "900f96ea-ada7-41b3-a24e-96b726078ff4",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.8.81/24\n2200:0:0:8::81/64</text></svg>",
+                "x": 277,
+                "y": -90,
+                "z": 2
+            },
+            {
+                "drawing_id": "66a92223-4423-4100-a223-5aec02a3a48c",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"20\" height=\"60\"><line x1=\"0\" x2=\"20\" y1=\"0\" y2=\"60\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 343,
+                "y": -50,
+                "z": 1
             }
         ],
         "links": [
@@ -494,8 +845,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/0",
-                            "x": -35,
-                            "y": 15
+                            "x": -39,
+                            "y": 5
                         },
                         "node_id": "a67a5da3-1987-4001-b44e-6fb73995dcd0",
                         "port_number": 0
@@ -590,8 +941,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": 65,
-                            "y": 29
+                            "x": 47,
+                            "y": 13
                         },
                         "node_id": "a67a5da3-1987-4001-b44e-6fb73995dcd0",
                         "port_number": 0
@@ -606,70 +957,6 @@
                             "y": 15
                         },
                         "node_id": "92f2b782-b425-4563-a895-3b4d6a76b9fc",
-                        "port_number": 0
-                    }
-                ],
-                "suspend": false
-            },
-            {
-                "filters": {},
-                "link_id": "b9027330-6849-4ea0-aadc-777c7046e5aa",
-                "link_style": {},
-                "nodes": [
-                    {
-                        "adapter_number": 0,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "f0/1",
-                            "x": 69,
-                            "y": 4
-                        },
-                        "node_id": "92f2b782-b425-4563-a895-3b4d6a76b9fc",
-                        "port_number": 1
-                    },
-                    {
-                        "adapter_number": 0,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "e0",
-                            "x": -3,
-                            "y": 46
-                        },
-                        "node_id": "d1ccbdb6-c251-4435-8324-2cb399ad3724",
-                        "port_number": 0
-                    }
-                ],
-                "suspend": false
-            },
-            {
-                "filters": {},
-                "link_id": "097fc6d4-3fbf-4809-afa1-8351ac2c5ba2",
-                "link_style": {},
-                "nodes": [
-                    {
-                        "adapter_number": 1,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "f1/0",
-                            "x": 70,
-                            "y": 36
-                        },
-                        "node_id": "92f2b782-b425-4563-a895-3b4d6a76b9fc",
-                        "port_number": 0
-                    },
-                    {
-                        "adapter_number": 0,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "e0",
-                            "x": -4,
-                            "y": 15
-                        },
-                        "node_id": "263dc264-4ac8-4191-9808-5918ed46a5a2",
                         "port_number": 0
                     }
                 ],
@@ -866,6 +1153,166 @@
                     }
                 ],
                 "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "170aa08f-ecfc-4ac0-9e56-82abce592ece",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0",
+                            "x": 53,
+                            "y": -4
+                        },
+                        "node_id": "7b3f1181-68a5-4014-876b-250a6c1a828b",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e2",
+                            "x": 14,
+                            "y": 49
+                        },
+                        "node_id": "82e6e22c-1d2b-4e3f-a228-e7dc24309f8b",
+                        "port_number": 2
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "2afd63ff-ddd3-4d4e-87a0-aefbe45ccf60",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0",
+                            "x": 10,
+                            "y": -4
+                        },
+                        "node_id": "12d12c12-275f-41a5-8877-4b0050b871af",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e3",
+                            "x": 57,
+                            "y": 49
+                        },
+                        "node_id": "82e6e22c-1d2b-4e3f-a228-e7dc24309f8b",
+                        "port_number": 3
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "ef927a40-9bfc-486b-a3fe-8374c1630a6c",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "f0/1",
+                            "x": 72,
+                            "y": 22
+                        },
+                        "node_id": "92f2b782-b425-4563-a895-3b4d6a76b9fc",
+                        "port_number": 1
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0",
+                            "x": -4,
+                            "y": 15
+                        },
+                        "node_id": "5a688428-619a-4cab-abf7-289e291f1bbe",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "d337a1fd-efcf-4bac-996a-080fa716d761",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e1",
+                            "x": 66,
+                            "y": -9
+                        },
+                        "node_id": "5a688428-619a-4cab-abf7-289e291f1bbe",
+                        "port_number": 1
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0",
+                            "x": -5,
+                            "y": 61
+                        },
+                        "node_id": "d1ccbdb6-c251-4435-8324-2cb399ad3724",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "4d883f11-26ef-400b-ad31-25beef7d23aa",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e2",
+                            "x": 71,
+                            "y": 32
+                        },
+                        "node_id": "5a688428-619a-4cab-abf7-289e291f1bbe",
+                        "port_number": 2
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0",
+                            "x": -3,
+                            "y": 12
+                        },
+                        "node_id": "263dc264-4ac8-4191-9808-5918ed46a5a2",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
             }
         ],
         "nodes": [
@@ -979,8 +1426,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "786ac309-cdbd-44e4-86f2-9ca9b0b4a82b",
                 "width": 51,
-                "x": 254,
-                "y": -46,
+                "x": 270,
+                "y": 16,
                 "z": 1
             },
             {
@@ -1007,22 +1454,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 10
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 15
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 20
                         },
                         {
                             "name": "Ethernet3",
@@ -1031,15 +1481,17 @@
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet4",
                             "port_number": 4,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet5",
                             "port_number": 5,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
@@ -1087,22 +1539,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 10
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 15
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 20
                         },
                         {
                             "name": "Ethernet3",
@@ -1111,15 +1566,17 @@
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet4",
                             "port_number": 4,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet5",
                             "port_number": 5,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
@@ -1168,8 +1625,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 175,
-                "y": -429,
+                "x": 329,
+                "y": -428,
                 "z": 1
             },
             {
@@ -1473,8 +1930,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 526,
-                "y": -107,
+                "x": 593,
+                "y": -111,
                 "z": 1
             },
             {
@@ -1502,8 +1959,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 528,
-                "y": 29,
+                "x": 601,
+                "y": 16,
                 "z": 1
             },
             {
@@ -1682,7 +2139,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5000,
+                "console": 5030,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -1751,7 +2208,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5001,
+                "console": 5032,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -1820,7 +2277,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5002,
+                "console": 5034,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -1885,6 +2342,86 @@
                 "width": 66,
                 "x": -54,
                 "y": -418,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5035,
+                "console_auto_start": false,
+                "console_type": "none",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 32,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "Switch5",
+                    "x": 6,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "Switch5",
+                "node_id": "5a688428-619a-4cab-abf7-289e291f1bbe",
+                "node_type": "ethernet_switch",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "ports_mapping": [
+                        {
+                            "name": "Ethernet0",
+                            "port_number": 0,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet1",
+                            "port_number": 1,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet2",
+                            "port_number": 2,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet3",
+                            "port_number": 3,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet4",
+                            "port_number": 4,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet5",
+                            "port_number": 5,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet6",
+                            "port_number": 6,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet7",
+                            "port_number": 7,
+                            "type": "access",
+                            "vlan": 1
+                        }
+                    ]
+                },
+                "symbol": ":/symbols/ethernet_switch.svg",
+                "template_id": "1966b864-93e7-32d5-965f-001384eec461",
+                "width": 72,
+                "x": 496,
+                "y": -18,
                 "z": 1
             }
         ]

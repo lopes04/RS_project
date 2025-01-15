@@ -19,7 +19,7 @@
         "drawings": [
             {
                 "drawing_id": "e179113f-9903-4582-9556-7d6dc215241e",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"1194\" height=\"185\"><rect width=\"1194\" height=\"185\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -526,
@@ -28,16 +28,16 @@
             },
             {
                 "drawing_id": "59043afd-7749-4b27-9647-f49e190b4637",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"1201\" height=\"768\"><rect width=\"1201\" height=\"768\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -527,
-                "y": -302,
+                "x": -523,
+                "y": -293,
                 "z": 0
             },
             {
                 "drawing_id": "dfa49cd5-06f7-46b9-ac1c-e091e83c8328",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"338\" height=\"233\"><rect width=\"338\" height=\"233\" fill=\"#8ff0a4\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": 328,
@@ -46,7 +46,7 @@
             },
             {
                 "drawing_id": "555b62b9-aa4b-437a-a3df-727ff9ca9d9e",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"289\" height=\"187\"><rect width=\"289\" height=\"187\" fill=\"#f9f06b\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -511,
@@ -55,7 +55,7 @@
             },
             {
                 "drawing_id": "2981ffec-9a4b-4ea6-8f88-44cb86843858",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"247\" height=\"212\"><rect width=\"247\" height=\"212\" fill=\"#dc8add\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -140,
@@ -64,7 +64,7 @@
             },
             {
                 "drawing_id": "c2b8c7e8-f98f-4460-a597-5947db227ba4",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#99c1f1\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -391,
@@ -73,7 +73,7 @@
             },
             {
                 "drawing_id": "15e04f56-0782-4b19-8345-3530a87c299c",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#ffbe6f\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -99,
@@ -82,7 +82,7 @@
             },
             {
                 "drawing_id": "d162db13-ba4a-4b27-9ad1-f3d99411efc9",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"204\" height=\"100\"><rect width=\"204\" height=\"100\" fill=\"#f66151\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": 173,
@@ -463,8 +463,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"114\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.10.7.71/24\n2200:0:0:7::71/64</text></svg>",
-                "x": 198,
-                "y": -48,
+                "x": 233,
+                "y": -41,
                 "z": 2
             },
             {
@@ -511,6 +511,24 @@
                 "x": 343,
                 "y": -50,
                 "z": 1
+            },
+            {
+                "drawing_id": "d22299f7-fb4b-4abf-99f9-5b4b82745637",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">2200:0:0:4::41/64</text></svg>",
+                "x": -289,
+                "y": -28,
+                "z": 2
+            },
+            {
+                "drawing_id": "683d0933-421f-4ef3-9ecf-981cd90255ec",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"114\" height=\"62\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">2200:0:0:4::42/64\n10.10.4.3/24\n195.5.5.51/28</text></svg>",
+                "x": -1018,
+                "y": -79,
+                "z": 2
             }
         ],
         "links": [
@@ -1369,8 +1387,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "786ac309-cdbd-44e4-86f2-9ca9b0b4a82b",
                 "width": 51,
-                "x": -385,
-                "y": 6,
+                "x": -383,
+                "y": 12,
                 "z": 1
             },
             {
@@ -1426,8 +1444,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "786ac309-cdbd-44e4-86f2-9ca9b0b4a82b",
                 "width": 51,
-                "x": 270,
-                "y": 16,
+                "x": 269,
+                "y": 14,
                 "z": 1
             },
             {
@@ -2133,8 +2151,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 307,
-                "y": 371,
+                "x": 305,
+                "y": 368,
                 "z": 1
             },
             {
@@ -2272,7 +2290,7 @@
                 "template_id": "995f39da-32e8-43cc-9b76-73d5e1d3f6ea",
                 "width": 66,
                 "x": 369,
-                "y": -25,
+                "y": -26,
                 "z": 1
             },
             {
